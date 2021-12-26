@@ -1,2 +1,2 @@
 # money-blog
-Related to https://money.vainolo.com
+Code-related stuff for my blog https://money.vainolo.com
